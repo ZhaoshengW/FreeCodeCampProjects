@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Meowsy",
+    "species" : "cat",
+  },
+  {
+    "name": "Barky",
+    "species" : "dog",
+  },
+  {
+    "name": "Purrpaws",
+    "species" : "cat",
+  }
+]

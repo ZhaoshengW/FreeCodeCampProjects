@@ -1,0 +1,15 @@
+{"users":[
+	{
+		"name":"Jenny",
+		"quote": "I like to eat!"
+	},
+	{
+		"name":"Kenny",
+		"quote": "I like to play!"
+	},	
+	{
+		"name":"Menny",
+		"quote": "I like to talk!"
+	},	
+]
+}
