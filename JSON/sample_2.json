@@ -1,14 +1,14 @@
 [
   {
-    "name": "Meowsys",
-    "species" : "cat"
+    "name":"Jenny",
+	"quote": "I like to eat!"
   },
   {
-    "name": "Barky",
-    "species" : "dog"
+    "name":"Kenny",
+	"quote": "I like to play!"
   },
   {
-    "name": "Purrpaws",
-    "species" : "cat"
+    "name":"Menny",
+	"quote": "I like to talk!"
   }
 ]
