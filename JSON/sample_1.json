@@ -1,15 +1,27 @@
-{"users":[
+[
 	{
 		"name":"Jenny",
 		"quote": "I like to eat!"
+		"foods": {
+			"likes": ["tuna", "catnip"],
+			"dislikes": ["ham", "zucchini"]
+		}
 	},
 	{
 		"name":"Kenny",
 		"quote": "I like to play!"
+		"foods": {
+			"likes": ["tuna", "catnip"],
+			"dislikes": ["ham", "zucchini"]
+		}
 	},	
 	{
 		"name":"Menny",
 		"quote": "I like to talk!"
-	},	
+		"foods": {
+			"likes": ["tuna", "catnip"],
+			"dislikes": ["ham", "zucchini"]
+		}
+	}	
 ]
 }
