@@ -1,26 +1,14 @@
 [
 	{
 		"name":"Jenny",
-		"quote": "I like to eat!",
-		"foods": {
-			"likes": ["tuna", "catnip"],
-			"dislikes": ["ham", "zucchini"]
-		}
+		"quote": "I like to eat!"
 	},
 	{
 		"name":"Kenny",
-		"quote": "I like to play!",
-		"foods": {
-			"likes": ["tuna", "catnip"],
-			"dislikes": ["ham", "zucchini"]
-		}
+		"quote": "I like to play!"
 	},	
 	{
 		"name":"Menny",
-		"quote": "I like to talk!",
-		"foods": {
-			"likes": ["tuna", "catnip"],
-			"dislikes": ["ham", "zucchini"]
-		}
+		"quote": "I like to talk!"
 	}	
 ]
