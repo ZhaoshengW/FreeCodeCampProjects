@@ -1,14 +1,14 @@
 [
   {
     "name": "Meowsy",
-    "species" : "cat",
+    "species" : "cat"
   },
   {
     "name": "Barky",
-    "species" : "dog",
+    "species" : "dog"
   },
   {
     "name": "Purrpaws",
-    "species" : "cat",
+    "species" : "cat"
   }
 ]
