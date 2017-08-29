@@ -10,6 +10,7 @@ $(document).ready(function(){
 		if(weather == "Clouds")
 		{
 			$("body").css('background-image','url(clouds.jpg)');
+			//need to set width vs height
 		}
 		temp = data.main.temp;
 		cTemp = temp-273.15;
